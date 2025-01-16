@@ -99,3 +99,9 @@ This project is a comprehensive application combining frontend development, a Dj
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, or open issues to suggest improvements.
+
+![main](https://github.com/user-attachments/assets/aa133cae-8b7c-4248-87eb-8d1417234766)
+
+![Screenshot (138)](https://github.com/user-attachments/assets/19f24d01-5fab-4ac1-bc1c-34f99efb9d01)
+
+![Screenshot (139)](https://github.com/user-attachments/assets/6d050d52-c97c-488e-9f38-cd9c2f305e39)
